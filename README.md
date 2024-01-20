@@ -41,4 +41,8 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
+## 📚 Certificado
+
+Confira aqui o [certificado](https://app.rocketseat.com.br/certificates/ff643000-cf79-4951-a720-a081827f9b86) de conclussão do curso.
+
 ---
